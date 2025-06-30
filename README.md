@@ -1,2 +1,2 @@
-# NLP_RottenTomatoes
+# NLP_Cyberbullying classification
 NLP project
